@@ -10,6 +10,8 @@ The main purpose of the project is to support operational tracking and reporting
 
 The project also includes a simple application interface to demonstrate the database and display query results.
 
+Presentation: https://drive.google.com/file/d/1N5--nS-hl1QaiWeas0Y6SVkDnmqXIlFG/view?usp=sharing
+
 ## Problem Statement
 
 Banks generate large amounts of interconnected operational data. Customer accounts, transaction history, branch activity, card records, loan information, and payments must be stored in a consistent and structured way.
